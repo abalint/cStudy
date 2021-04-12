@@ -10,5 +10,6 @@
 
 #include <stdio.h>
 void countInputs(void);
+void wordHistogram(void);
 
 #endif /* arrays_h */
